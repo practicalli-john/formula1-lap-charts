@@ -1,3 +1,12 @@
+# Herokise
+
+Convert this project so it runs on Heroku and makes a nice looking simple demo
+
+* Run without extra web server - run node.js web server
+* Use environment variables for db connection & any other external services
+* Add Heroku Button 
+
+
 # Formula 1 Lap Charts
 
 Interactive lap chart visualization of Formula 1 races.
